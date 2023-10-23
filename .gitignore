@@ -1,0 +1,11 @@
+__pycache__
+data_retrieval
+ViQuAD
+*.bin
+predict.json
+tmp.answer
+train_ranking.csv
+indexes
+collections
+full_wiki
+*.zip
